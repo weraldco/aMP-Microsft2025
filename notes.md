@@ -38,4 +38,26 @@ Contents:
 
 #Azure #AzureOpenAI #AzureAIFoundry #MicrosoftFabric #AzureML #MachineLearning #SynapseAnalytics #Databricks #CognitiveServices #AzureBot #CopilotStudio #BotFramework
 
-**NOTES**
+## NOTES
+
+**Talk about**
+
+- AI and Machine Learning basic
+- Intro to azure AI Foundry
+- Intro to Agen using co pilot studio
+- Intro to Machine Learning and ETL Tech
+- Achitecting AI Tech
+
+Artificial Intelligence icludes Machine Learning
+
+- Multiple algotithms that generate models
+  - Regressions e.g. lenear regression
+    - predict numeric values (linear or not), use to (Trends, Weatherr, Economics, Biology)
+  - Classification (e.g its A or B, its true or false)
+  - Clustering Assiciation (e.g. finding patterns)
+  - Generative AI (e.g LLMs SLMs etc.)
+- Miltiple Techniques
+  - Mathematical (e.g. Polynomial)
+  - Nueral Networks
+  - Deep Learning
+  - LLMs
