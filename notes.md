@@ -60,4 +60,4 @@ Artificial Intelligence icludes Machine Learning
   - Mathematical (e.g. Polynomial)
   - Nueral Networks
   - Deep Learning
-  - LLMs
+  - LLMss
