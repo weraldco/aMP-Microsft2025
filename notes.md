@@ -54,10 +54,29 @@ Artificial Intelligence icludes Machine Learning
   - Regressions e.g. lenear regression
     - predict numeric values (linear or not), use to (Trends, Weatherr, Economics, Biology)
   - Classification (e.g its A or B, its true or false)
-  - Clustering Assiciation (e.g. finding patterns)
+    - Classify in 2 or multi-class models
+    - Logistic Regression (2 Class) Learn by finding binary pattern in data, return negative or positive data or A or B, or numerical percentage from 0 to 100%, 0 false 100 true
+  - Clustering Association (e.g. finding patterns)
+    - Multiple algorithms for clustering, both for numerical and categorial data. explain by simple boolean login and easy to exapnd the tree if mode details is needed.
   - Generative AI (e.g LLMs SLMs etc.)
-- Miltiple Techniques
+- Multiple Techniques
+
   - Mathematical (e.g. Polynomial)
   - Nueral Networks
+    - eg. imaging and deep learning
   - Deep Learning
   - LLMss
+
+  ## Machine Learnng Flow
+
+  1. Get datasets
+  2. Clean prep feature engineering
+  3. Training (Choosing algorithms and hyper parameters) eg. Regression or DeepLearning.
+  4. Scoring/Testing
+  5. Evaluating
+  6. Deploying predictive web services
+  7. I'll retrain back
+
+# AI Foundry
+
+    -
